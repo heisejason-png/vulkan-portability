@@ -43,7 +43,7 @@ version. Help us evolve this provisional extension specification by providing fe
 suggestions, or submitting any issues you encounterto the Vulkan Portability 
 [issues list](https://github.com/KhronosGroup/Vulkan-Portability/issues) in this repository.
 
-
+Created by Jason Scott Heise
 
 
 
